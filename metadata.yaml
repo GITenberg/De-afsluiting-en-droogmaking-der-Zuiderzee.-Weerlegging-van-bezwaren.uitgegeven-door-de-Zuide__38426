@@ -1,0 +1,29 @@
+_repo: De-afsluiting-en-droogmaking-der-Zuiderzee.-Weerlegging-van-bezwaren.uitgegeven-door-de-Zuide__38426
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beekman, A. A. (Anton Albert)
+    alias: Beekman, Anton Albert
+    birthdate: 1854
+    deathdate: 1947
+    gutenberg_agent_id: '39463'
+    url: http://www.gutenberg.org/2009/agents/39463
+description: ''
+gutenberg_issued: '2011-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38426'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reclamation of land -- Netherlands'
+- !lcsh 'IJssel Lake (Netherlands)'
+- !lcc 'TC'
+title: "De afsluiting en droogmaking der Zuiderzee. Weerlegging van bezwaren.\r\n\
+  uitgegeven door de Zuiderzee-Vereeniging"
+url: http://www.gutenberg.org/ebooks/38426
